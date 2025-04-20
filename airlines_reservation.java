@@ -26,7 +26,7 @@ public class airline_reservation {
                     reserveSeat();
                     break;
                 case 3:
-                    System.out.println("Thank you for using XYZ Airlines");
+                    System.out.println("Thank you for using Bhavana Airlines");
                     System.exit(0);
             } //end of switch case
         } //end of while loop
